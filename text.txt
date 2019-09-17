@@ -81,4 +81,3 @@ example/mvcをコピーした時点では、
 applicationが呼ばれる
 application/config.phpが読み込まれる
 URIセグメントに記述がないので、「type, actor, target, action」が省略され、それぞれ「pgae, g, welcome, index」が要求される
-また、argcは0となる
